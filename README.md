@@ -2,8 +2,6 @@
 
 My name is Sahand Farhangi. I am a Computer Engineering student at York University.
 
-About Me
-
 Languages: Java, C/C++, Python, Bash, Verilog
 
 Hardware: FPGA
